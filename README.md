@@ -1,2 +1,3 @@
-# danpanel
-A derma panel addon  created for my server.
+# IrishAct
+A small addon  created for my server that displays act commands graphically.
+# irishact
