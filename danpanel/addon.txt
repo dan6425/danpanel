@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"				"danpanel" 
+	"version"			"1.0"
+	"author_name"		"Dr.IrishDan"
+	"author_email"		"Dr.IrishDan@IrishMayhem.com"
+	"author_url"		"www.irishmayhem.com"
+	"info"				"Working with derma panels"
+}
+
